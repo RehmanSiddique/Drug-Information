@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674349379080",
+    "project_id": "drug-information-e6d08",
+    "storage_bucket": "drug-information-e6d08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674349379080:android:0856952ed2ab9d1761abbd",
+        "android_client_info": {
+          "package_name": "com.example.drug_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ9Z2qSSa7xIR4dUS1OC9kSF1tM2B9GYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
