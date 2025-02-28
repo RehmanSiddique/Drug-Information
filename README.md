@@ -1,6 +1,8 @@
 # Drug Information App
 
 The **Drug Information App** is a comprehensive application that provides detailed and up-to-date information on various drugs. Users can search for drug names, view detailed data (including indications, dosage, side effects, and interactions), and access secure features through Firebase Authentication. All drug data is stored in Firestore, ensuring real-time updates and efficient data management.
+
+## Screens
 <img src="https://github.com/user-attachments/assets/69b2394c-c734-42c4-8eaf-ac647a3a2fb4" alt="Image" width="190" />
 <img src="https://github.com/user-attachments/assets/05230d21-edb3-46b9-9715-7f2f405c3b41" alt="Image" width="190" />
 <img src="https://github.com/user-attachments/assets/cede36cd-8cd0-484f-a434-e5cf87f9dd33" alt="Image" width="190" />
