@@ -10,7 +10,7 @@ The **Drug Information App** is a comprehensive application that provides detail
 <img src="https://github.com/user-attachments/assets/92e76dee-3c27-492a-b9fb-c02f2e2a3f52" alt="Image" width="190" />
 <img src="https://github.com/user-attachments/assets/686ba2f8-1cf4-4e06-974a-74cf27bedc04" alt="Image" width="190" />
 <img src="https://github.com/user-attachments/assets/454085cb-ceed-4d32-864a-8a1a35777c44" alt="Image" width="190" />
-<img src="https://github.com/user-attachments/assets/9cc5bcbc-5cf6-40a9-94ed-524a7349889" alt="Image" width="190" />
+<img src="https://github.com/user-attachments/assets/9cc5bcbc-5cf6-40a9-94ed-524a73498899" alt="Image" width="190" />
 
 ## Features
 
