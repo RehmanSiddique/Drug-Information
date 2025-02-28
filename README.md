@@ -1,16 +1,44 @@
-# drug_app
+# Drug Information App
 
-A new Flutter project.
+The **Drug Information App** is a comprehensive application that provides detailed and up-to-date information on various drugs. Users can search for drug names, view detailed data (including indications, dosage, side effects, and interactions), and access secure features through Firebase Authentication. All drug data is stored in Firestore, ensuring real-time updates and efficient data management.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Drug Search:**  
+  Quickly search for drugs by name and view detailed information.
+- **Detailed Drug Information:**  
+  Access comprehensive details such as uses, side effects, dosage, interactions, and warnings.
+- **Firebase Authentication:**  
+  Secure login and registration using Firebase Authentication to protect user data.
+- **Firestore Integration:**  
+  All drug information is stored in Firestore for real-time updates and offline access.
+- **Real-time Data Updates:**  
+  The app automatically fetches the latest drug data from Firestore.
+- **Loading Animations:**  
+  Uses shimmer effects and spinning animations to indicate data loading. 
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app leverages several packages to enhance functionality:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **firebase_auth:** For handling user authentication.
+- **cloud_firestore:** For storing and managing drug data.
+- **flutter_spinkit:** For loading animations.
+- **pie_chart:** For visualizing data in pie chart format.
+- **shimmer:** For creating a shimmer effect during data loading.
+- **http:** For making API requests (if applicable).
+
+## Installation
+
+### Prerequisites
+
+- **Flutter SDK** installed on your machine.
+- A configured Firebase project with Authentication and Firestore enabled.
+
+### Steps
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/RehmanSiddique/Drug-Information.git
+   cd Drug-Information
